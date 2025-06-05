@@ -4,7 +4,7 @@ This repository hosts a simple JSON-based API for a list of school subjects. It 
 
 ## 📦 JSON Data
 
-The [`JSON file`](./json-source.json) contains an array of subject objects, each with the following structure:
+The [`JSON file`](./json_source.json) contains an array of subject objects, each with the following structure:
 
 ```json
 [
