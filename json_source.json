@@ -3,21 +3,21 @@
 		"Id": "fd8a1c94-6e2e-4e5a-b2d3-8761f0aef1a1",
 		"Name": "Physics",
 		"Description": "Introduction to mechanics, waves, and energy.",
-		"NumberOfWeeklyClasses": 4,
-		"LiteratureUsed": [ "Fundamentals of Physics", "Conceptual Physics" ]
+		"Number_Of_Weekly_Classes": 4,
+		"Literature_Used": [ "Fundamentals of Physics", "Conceptual Physics" ]
 	},
 	{
 		"Id": "af6f27c2-dc0b-4c2d-9312-2e7f2df7b5a2",
 		"Name": "History",
 		"Description": "Study of major world civilizations and events.",
-		"NumberOfWeeklyClasses": 3,
-		"LiteratureUsed": [ "World History Overview", "Ancient Civilizations" ]
+		"Number_Of_Weekly_Classes": 3,
+		"Literature_Used": [ "World History Overview", "Ancient Civilizations" ]
 	},
 	{
 		"Id": "b5a7d674-7c45-4fc3-9135-9ad5f6dcf0e3",
 		"Name": "Biology",
 		"Description": "Exploration of living organisms and life processes.",
-		"NumberOfWeeklyClasses": 4,
-		"LiteratureUsed": [ "Biology Today", "The Living World" ]
+		"Number_Of_Weekly_Classes": 4,
+		"Literature_Used": [ "Biology Today", "The Living World" ]
 	}
 ]
